@@ -40,7 +40,7 @@
 ```
 
 ### 六、	实验结果
-![实验结果截图](https://github.com/GM-01/JavaExperiment-3/blob/main/3.png)
+![实验结果截图](https://github.com/TAP-APIA/EX-4/blob/main/1604811721(1).jpg)
 
 ### 七、	实验感想
   通过这次实验，我对java的现实应用有了充分了解，学习了异常处理的相关内容
